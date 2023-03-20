@@ -74,4 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Unreal logs
-./Project_Drones/Saved
+Project_Drones/Saved
