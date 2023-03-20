@@ -28769,3 +28769,2064 @@ Health: 100.0
 [2023.03.20-21.11.50:630][794]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_Shield4928D11C4094A91123B741880BEC382B.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
 [2023.03.20-21.11.50:639][794]AssetCheck: New page: Asset Save: BP_Shield
 [2023.03.20-21.11.50:640][794]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.03:258][473]BlueprintLog: New page: Compile BP_Shield
+[2023.03.20-21.14.03:312][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.20-21.14.03:316][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_159.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:318][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_75.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:320][473]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363833.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:323][473]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363834.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:324][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_77.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:326][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_75.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:334][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_161.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:336][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_77.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:338][473]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363835.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:340][473]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363836.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:342][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:344][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_77.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.03:406][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Shield" FILE="../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset" SILENT=true
+[2023.03.20-21.14.03:418][473]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Shield
+[2023.03.20-21.14.03:418][473]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_ShieldC1397F63412B1236605AC1B42CDD4DE2.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
+[2023.03.20-21.14.03:433][473]AssetCheck: New page: Asset Save: BP_Shield
+[2023.03.20-21.14.03:434][473]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.03:638][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Shield" FILE="../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset" SILENT=true
+[2023.03.20-21.14.03:650][491]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Shield
+[2023.03.20-21.14.03:650][491]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_Shield8734F9024E6CBD67CA262188E5C77E01.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
+[2023.03.20-21.14.03:659][491]AssetCheck: New page: Asset Save: BP_Shield
+[2023.03.20-21.14.03:659][491]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.03:833][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Shield" FILE="../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset" SILENT=true
+[2023.03.20-21.14.03:845][508]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Shield
+[2023.03.20-21.14.03:845][508]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_Shield60866DD0443D984F3272FC99FD285822.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
+[2023.03.20-21.14.03:854][508]AssetCheck: New page: Asset Save: BP_Shield
+[2023.03.20-21.14.03:854][508]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.03:972][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Shield" FILE="../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset" SILENT=true
+[2023.03.20-21.14.03:983][516]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Shield
+[2023.03.20-21.14.03:983][516]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_Shield0ECE1C9249F2BE0A9062DFB910861C48.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
+[2023.03.20-21.14.03:992][516]AssetCheck: New page: Asset Save: BP_Shield
+[2023.03.20-21.14.03:992][516]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.07:670][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_163.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:671][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:673][925]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363837.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:676][925]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363838.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:677][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_81.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:679][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:681][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_165.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:683][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_81.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:684][925]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363839.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:687][925]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363840.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:689][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_83.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.07:690][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_81.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:398][113]BlueprintLog: New page: Compile BP_Shield
+[2023.03.20-21.14.09:447][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.03.20-21.14.09:452][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_167.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:453][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_83.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:455][113]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363841.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:458][113]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363842.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:460][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_85.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:461][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_83.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:470][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_169.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:471][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_85.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:473][113]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363843.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:475][113]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363844.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:478][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_87.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:479][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_85.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.09:544][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Shield" FILE="../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset" SILENT=true
+[2023.03.20-21.14.09:557][113]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Shield
+[2023.03.20-21.14.09:557][113]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_Shield6011BEF145761D76442AC7AC6BA417F8.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
+[2023.03.20-21.14.09:571][113]AssetCheck: New page: Asset Save: BP_Shield
+[2023.03.20-21.14.09:571][113]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.09:747][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Shield" FILE="../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset" SILENT=true
+[2023.03.20-21.14.09:759][124]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Shield
+[2023.03.20-21.14.09:759][124]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_ShieldF63C04CD40C2C768D89BCCBDAD7175B3.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
+[2023.03.20-21.14.09:768][124]AssetCheck: New page: Asset Save: BP_Shield
+[2023.03.20-21.14.09:768][124]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.09:898][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Shield" FILE="../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset" SILENT=true
+[2023.03.20-21.14.09:909][132]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Shield
+[2023.03.20-21.14.09:910][132]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_ShieldEBAF958C4876660F7C056781441AAECB.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
+[2023.03.20-21.14.09:920][132]AssetCheck: New page: Asset Save: BP_Shield
+[2023.03.20-21.14.09:920][132]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.20:385][309]BlueprintLog: New page: Compile BP_Shield
+[2023.03.20-21.14.20:436][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.03.20-21.14.20:441][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_171.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:443][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_87.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:445][309]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363845.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:448][309]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363846.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:450][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_89.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:452][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_87.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:462][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_173.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:463][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_89.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:465][309]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363847.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:468][309]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Testing.Testing:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_2131363848.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:470][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_91.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:472][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Shield_C_CHILDACTOR_89.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.03.20-21.14.20:540][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Shield" FILE="../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset" SILENT=true
+[2023.03.20-21.14.20:551][309]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Shield
+[2023.03.20-21.14.20:552][309]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_Shield5A2202724E917D80128C609AEAF2D7A5.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
+[2023.03.20-21.14.20:565][309]AssetCheck: New page: Asset Save: BP_Shield
+[2023.03.20-21.14.20:565][309]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.23:269][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Shield" FILE="../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset" SILENT=true
+[2023.03.20-21.14.23:281][613]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Shield
+[2023.03.20-21.14.23:281][613]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_Shield9F788628443E730FA608DFA0D641C2A9.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
+[2023.03.20-21.14.23:290][613]AssetCheck: New page: Asset Save: BP_Shield
+[2023.03.20-21.14.23:290][613]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.23:432][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Shield" FILE="../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset" SILENT=true
+[2023.03.20-21.14.23:444][626]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Shield
+[2023.03.20-21.14.23:444][626]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_Shield38E2040940C6B19A440ECE877AAA8F16.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Content/Blueprints/Actors/BP_Shield.uasset'
+[2023.03.20-21.14.23:454][626]AssetCheck: New page: Asset Save: BP_Shield
+[2023.03.20-21.14.23:454][626]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Shield.BP_Shield
+[2023.03.20-21.14.24:889][750]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.20-21.14.24:897][750]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.20-21.14.24:897][750]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.20-21.14.24:897][750]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.20-21.14.24:897][750]LogWorldPartition: Display: ValidateSingleActorReferer took 5 us
+[2023.03.20-21.14.24:897][750]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2023.03.20-21.14.24:966][750]LogWorldPartition: Display: GenerateStreaming took 69 ms
+[2023.03.20-21.14.24:966][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-21.14.24:966][750]PIE: New page: PIE session: Testing (20 Mar 2023, 21:14:24)
+[2023.03.20-21.14.24:966][750]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.03.20-21.14.24:991][750]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.20-21.14.24:991][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024810s)
+[2023.03.20-21.14.24:991][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.024851s)
+[2023.03.20-21.14.24:991][750]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-21.14.24:992][750]LogAIModule: Creating AISystem for world Testing
+[2023.03.20-21.14.24:992][750]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.20-21.14.24:992][750]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.20-21.14.24:996][750]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2023.03.20-21.14.24:996][750]LogPlayLevel: PIE: World Init took: (0.005178s)
+[2023.03.20-21.14.25:021][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.03.20-21.14.25:023][750]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.03.20-21.14.25:023][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-21.14.25:023][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-21.14.25:023][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-21.14.25:023][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-21.14.25:023][750]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.20-21.14.25:023][750]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-21.14.25:023][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.20-21.14.25:023][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-21.14.25:024][750]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-21.14.25:024][750]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-21.14.25:024][750]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-21.14.25:025][750]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-21.14.25:142][750]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR HS80 RGB Wireless Gaming Headset)
+[2023.03.20-21.14.25:143][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-21.14.25:143][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-21.14.25:143][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-21.14.25:143][750]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.03.20-21.14.25:143][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2023.03.20-21.14.25:144][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.03.20-21.14.25:144][750]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.03.20-21.14.25:144][750]LogInit: FAudioDevice initialized.
+[2023.03.20-21.14.25:144][750]LogAudio: Display: Audio Device (ID: 14) registered with world 'Testing'.
+[2023.03.20-21.14.25:166][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-21.14.25:166][750]LogLoad: Game class is 'GM_DroneSwarm_C'
+[2023.03.20-21.14.25:170][750]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.03.20-21.14.25
+[2023.03.20-21.14.25:170][750]LogWorld: Bringing up level for play took: 0.003222
+[2023.03.20-21.14.25:171][750]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.03.20-21.14.25:172][750]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Player possessed!
+[2023.03.20-21.14.25:172][750]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.20-21.14.25:172][750]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Player possessed!
+[2023.03.20-21.14.25:173][750]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=300.000
+[2023.03.20-21.14.25:173][750]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.03.20-21.14.25:173][750]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=300.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/F/2R/9R3N96S8KT56B49U1BX5IR.StaticMesh_Testing_HLOD0_Instancing_1 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/E/B5/M5BIVB0JMOBD3ZTH0VETV6.StaticMesh_Testing_HLOD0_Instancing_3 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/E/B5/M5BIVB0JMOBD3ZTH0VETV6.StaticMesh_Testing_HLOD0_Instancing_2 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/D/2B/TTE0OXV1G0BQRDH701UAKL.StaticMesh_Testing_HLOD0_Instancing_3 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/D/2B/TTE0OXV1G0BQRDH701UAKL.StaticMesh_Testing_HLOD0_Instancing_2 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/C/LK/HKV659X0UHXGEIHFJ89MXV.StaticMesh_Testing_HLOD0_Instancing_1 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/9/H4/Y8CTZZ1O0NV2S5NXPBMFV1.StaticMesh_Testing_HLOD0_Instancing_1 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/8/UH/XR4HJCE3EZAYZL0IR8IF29.StaticMesh_Testing_HLOD0_Instancing_3 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/8/UH/XR4HJCE3EZAYZL0IR8IF29.StaticMesh_Testing_HLOD0_Instancing_2 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/8/RD/DM649V3T537UVS78QTSRUD.StaticMesh_Testing_HLOD0_Instancing_5 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/8/RD/DM649V3T537UVS78QTSRUD.StaticMesh_Testing_HLOD0_Instancing_4 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/8/RD/DM649V3T537UVS78QTSRUD.StaticMesh_Testing_HLOD0_Instancing_3 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/8/GF/39V9RD6S0SYDL963X2F0EK.StaticMesh_Testing_HLOD0_Instancing_1 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/8/FL/S357CUBR3YKF4HMZFV4SLP.StaticMesh_Testing_HLOD0_Instancing_1 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/7/PL/GY15OZ49GVC0QU5M84V9QT.StaticMesh_Testing_HLOD0_Instancing_9 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/7/PL/GY15OZ49GVC0QU5M84V9QT.StaticMesh_Testing_HLOD0_Instancing_8 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/7/PL/GY15OZ49GVC0QU5M84V9QT.StaticMesh_Testing_HLOD0_Instancing_7 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/7/PL/GY15OZ49GVC0QU5M84V9QT.StaticMesh_Testing_HLOD0_Instancing_6 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/7/PL/GY15OZ49GVC0QU5M84V9QT.StaticMesh_Testing_HLOD0_Instancing_11 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/7/PL/GY15OZ49GVC0QU5M84V9QT.StaticMesh_Testing_HLOD0_Instancing_10 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/7/IT/97NBBQ152OB25JIZFPDGUQ.StaticMesh_Testing_HLOD0_Instancing_3 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/7/IT/97NBBQ152OB25JIZFPDGUQ.StaticMesh_Testing_HLOD0_Instancing_2 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/6/VD/W7QR9XRAKEVX16SQW598QQ.StaticMesh_Testing_HLOD0_Instancing_9 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/6/VD/W7QR9XRAKEVX16SQW598QQ.StaticMesh_Testing_HLOD0_Instancing_8 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/6/VD/W7QR9XRAKEVX16SQW598QQ.StaticMesh_Testing_HLOD0_Instancing_7 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/6/VD/W7QR9XRAKEVX16SQW598QQ.StaticMesh_Testing_HLOD0_Instancing_6 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/6/VD/W7QR9XRAKEVX16SQW598QQ.StaticMesh_Testing_HLOD0_Instancing_11 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/6/VD/W7QR9XRAKEVX16SQW598QQ.StaticMesh_Testing_HLOD0_Instancing_10 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/6/QC/ZYTBLHWJMMGJ53VAMEZVF3.StaticMesh_Testing_HLOD0_Instancing_1 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/6/JC/40MKCPL8O2CA1XN9MGBDP4.StaticMesh_Testing_HLOD0_Instancing_1 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/6/9X/E3M1Z2225BSMNE5GHP6VVM.StaticMesh_Testing_HLOD0_Instancing_1 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/5/UQ/UDP7IWNKLR7XPDY2XH80T5.StaticMesh_Testing_HLOD0_Instancing_9 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/5/UQ/UDP7IWNKLR7XPDY2XH80T5.StaticMesh_Testing_HLOD0_Instancing_8 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/5/UQ/UDP7IWNKLR7XPDY2XH80T5.StaticMesh_Testing_HLOD0_Instancing_7 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/5/UQ/UDP7IWNKLR7XPDY2XH80T5.StaticMesh_Testing_HLOD0_Instancing_6 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/5/UQ/UDP7IWNKLR7XPDY2XH80T5.StaticMesh_Testing_HLOD0_Instancing_5 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/4/QG/JYFHJVXHQTHJ286XOHDFO4.StaticMesh_Testing_HLOD0_Instancing_1 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/3/VW/9M4RTCQPIB0LD657YLIVRF.StaticMesh_Testing_HLOD0_Instancing_3 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/3/VW/9M4RTCQPIB0LD657YLIVRF.StaticMesh_Testing_HLOD0_Instancing_2 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/3/K1/R3OA6PVFCSUI78QEAZTUE8.StaticMesh_Testing_HLOD0_Instancing_3 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/3/K1/R3OA6PVFCSUI78QEAZTUE8.StaticMesh_Testing_HLOD0_Instancing_2 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/2/UI/1X4HCP73DKNW3G3DY04JQ7.StaticMesh_Testing_HLOD0_Instancing_1 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/2/PM/JON959G8ZJR8K4OH5RN933.StaticMesh_Testing_HLOD0_Instancing_9 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/2/PM/JON959G8ZJR8K4OH5RN933.StaticMesh_Testing_HLOD0_Instancing_8 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/2/PM/JON959G8ZJR8K4OH5RN933.StaticMesh_Testing_HLOD0_Instancing_7 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/2/PM/JON959G8ZJR8K4OH5RN933.StaticMesh_Testing_HLOD0_Instancing_13 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/2/PM/JON959G8ZJR8K4OH5RN933.StaticMesh_Testing_HLOD0_Instancing_12 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/2/PM/JON959G8ZJR8K4OH5RN933.StaticMesh_Testing_HLOD0_Instancing_11 being ready before playing
+[2023.03.20-21.14.25:180][750]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Testing/2/PM/JON959G8ZJR8K4OH5RN933.StaticMesh_Testing_HLOD0_Instancing_10 being ready before playing
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:206][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:207][750]LogMaterial: Error: MaterialInstance "M_HLOD0_Testing_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_Testing_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2023.03.20-21.14.25:208][750]LogStreaming: Display: FlushAsyncLoading: 48 QueuedPackages, 0 AsyncPackages
+[2023.03.20-21.14.25:376][750]PIE: Server logged in
+[2023.03.20-21.14.25:379][750]PIE: Play in editor total start time 0.484 seconds.
+[2023.03.20-21.14.25:379][750]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:380][750]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:393][750]LogViewport: Scene viewport resized to 3929x1998, mode Windowed.
+[2023.03.20-21.14.25:407][751]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:407][751]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:471][752]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:471][752]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:518][753]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:518][753]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:561][754]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:562][754]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:574][755]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:574][755]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:587][756]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:587][756]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:601][757]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:601][757]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:614][758]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:614][758]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:626][759]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:626][759]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:640][760]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:640][760]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:653][761]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:653][761]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:664][762]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:664][762]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:678][763]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:678][763]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:691][764]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:691][764]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:703][765]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:704][765]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:717][766]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:717][766]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:730][767]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:730][767]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:742][768]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:742][768]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:755][769]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:756][769]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:769][770]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:769][770]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:782][771]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:783][771]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:799][772]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:799][772]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:816][773]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:816][773]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:827][774]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:827][774]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:840][775]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:841][775]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:854][776]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:854][776]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:869][777]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:869][777]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.25:882][778]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:882][778]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 32.120002
+Health: 100.0
+[2023.03.20-21.14.25:895][779]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:895][779]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 65.922322
+Health: 100.0
+[2023.03.20-21.14.25:909][780]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:910][780]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 102.898435
+Health: 100.0
+[2023.03.20-21.14.25:922][781]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:922][781]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 134.456979
+Health: 100.0
+[2023.03.20-21.14.25:935][782]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:936][782]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 167.159476
+Health: 100.0
+[2023.03.20-21.14.25:949][783]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:950][783]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 202.559527
+Health: 100.0
+[2023.03.20-21.14.25:962][784]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:963][784]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 235.895232
+Health: 100.0
+[2023.03.20-21.14.25:976][785]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:976][785]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 268.679764
+Health: 100.0
+[2023.03.20-21.14.25:990][786]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.25:990][786]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 304.448334
+Health: 100.0
+[2023.03.20-21.14.26:003][787]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:004][787]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 337.660954
+Health: 100.0
+[2023.03.20-21.14.26:016][788]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:016][788]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 369.252758
+Health: 100.0
+[2023.03.20-21.14.26:030][789]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:030][789]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 404.633633
+Health: 100.0
+[2023.03.20-21.14.26:043][790]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:044][790]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 437.296871
+Health: 100.0
+[2023.03.20-21.14.26:056][791]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:056][791]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 469.885466
+Health: 100.0
+[2023.03.20-21.14.26:071][792]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:071][792]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 506.815423
+Health: 100.0
+[2023.03.20-21.14.26:085][793]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:085][793]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 541.870235
+Health: 100.0
+[2023.03.20-21.14.26:098][794]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:098][794]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 573.116035
+Health: 100.0
+[2023.03.20-21.14.26:111][795]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:111][795]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 607.860522
+Health: 100.0
+[2023.03.20-21.14.26:126][796]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:126][796]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 643.845951
+Health: 100.0
+[2023.03.20-21.14.26:138][797]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:138][797]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 674.750016
+Health: 100.0
+[2023.03.20-21.14.26:152][798]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:152][798]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 709.479452
+Health: 100.0
+[2023.03.20-21.14.26:166][799]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:166][799]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 743.620654
+Health: 100.0
+[2023.03.20-21.14.26:178][800]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:178][800]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 774.398122
+Health: 100.0
+[2023.03.20-21.14.26:193][801]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:193][801]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 811.104364
+Health: 100.0
+[2023.03.20-21.14.26:207][802]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:207][802]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 846.17203
+Health: 100.0
+[2023.03.20-21.14.26:219][803]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:219][803]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 877.3471
+Health: 100.0
+[2023.03.20-21.14.26:233][804]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:233][804]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 912.198952
+Health: 100.0
+[2023.03.20-21.14.26:247][805]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:247][805]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 946.076626
+Health: 100.0
+[2023.03.20-21.14.26:261][806]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:261][806]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 980.743106
+Health: 100.0
+[2023.03.20-21.14.26:274][807]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:275][807]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1016.117378
+Health: 100.0
+[2023.03.20-21.14.26:288][808]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:289][808]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1049.892449
+Health: 100.0
+[2023.03.20-21.14.26:301][809]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:302][809]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1082.428058
+Health: 100.0
+[2023.03.20-21.14.26:314][810]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:315][810]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1115.877175
+Health: 100.0
+[2023.03.20-21.14.26:328][811]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:329][811]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1150.561819
+Health: 100.0
+[2023.03.20-21.14.26:344][812]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:344][812]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1184.444979
+Health: 100.0
+[2023.03.20-21.14.26:356][813]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:356][813]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1218.960659
+Health: 100.0
+[2023.03.20-21.14.26:369][814]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:369][814]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1251.242596
+Health: 100.0
+[2023.03.20-21.14.26:382][815]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:382][815]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1284.105799
+Health: 100.0
+[2023.03.20-21.14.26:395][816]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:395][816]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1316.487022
+Health: 100.0
+[2023.03.20-21.14.26:409][817]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:410][817]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1352.417281
+Health: 100.0
+[2023.03.20-21.14.26:423][818]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:423][818]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1385.746367
+Health: 100.0
+[2023.03.20-21.14.26:436][819]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:436][819]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1418.570594
+Health: 100.0
+[2023.03.20-21.14.26:450][820]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:450][820]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1454.411467
+Health: 100.0
+[2023.03.20-21.14.26:464][821]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:464][821]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1488.682166
+Health: 100.0
+[2023.03.20-21.14.26:477][822]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:477][822]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1521.218393
+Health: 100.0
+[2023.03.20-21.14.26:491][823]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:491][823]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1556.340517
+Health: 100.0
+[2023.03.20-21.14.26:504][824]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:504][824]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1589.052884
+Health: 100.0
+[2023.03.20-21.14.26:518][825]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:518][825]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1623.006374
+Health: 100.0
+[2023.03.20-21.14.26:532][826]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:532][826]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1658.686611
+Health: 100.0
+[2023.03.20-21.14.26:545][827]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:545][827]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1691.335143
+Health: 100.0
+[2023.03.20-21.14.26:558][828]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:558][828]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1723.419747
+Health: 100.0
+[2023.03.20-21.14.26:572][829]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:572][829]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1759.001852
+Health: 100.0
+[2023.03.20-21.14.26:585][830]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:586][830]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1792.140572
+Health: 100.0
+[2023.03.20-21.14.26:598][831]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:599][831]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1825.193609
+Health: 100.0
+[2023.03.20-21.14.26:613][832]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:613][832]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1861.964742
+Health: 100.0
+[2023.03.20-21.14.26:627][833]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:627][833]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1896.302822
+Health: 100.0
+[2023.03.20-21.14.26:640][834]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:640][834]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1929.065223
+Health: 100.0
+[2023.03.20-21.14.26:653][835]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:653][835]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1962.539836
+Health: 100.0
+[2023.03.20-21.14.26:666][836]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:666][836]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1994.814998
+Health: 100.0
+[2023.03.20-21.14.26:679][837]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:679][837]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 2027.768487
+Health: 100.0
+[2023.03.20-21.14.26:694][838]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:695][838]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 2065.184312
+Health: 100.0
+[2023.03.20-21.14.26:708][839]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:708][839]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 2098.789659
+Health: 100.0
+[2023.03.20-21.14.26:721][840]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:721][840]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 2065.805664
+Health: 100.0
+[2023.03.20-21.14.26:736][841]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:736][841]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 2028.905396
+Health: 100.0
+[2023.03.20-21.14.26:749][842]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:749][842]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1996.076904
+Health: 100.0
+[2023.03.20-21.14.26:762][843]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:763][843]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1962.705444
+Health: 100.0
+[2023.03.20-21.14.26:776][844]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:777][844]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1927.368896
+Health: 100.0
+[2023.03.20-21.14.26:790][845]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:790][845]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1893.892944
+Health: 100.0
+[2023.03.20-21.14.26:803][846]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:803][846]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1860.409424
+Health: 100.0
+[2023.03.20-21.14.26:817][847]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:818][847]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1825.369141
+Health: 100.0
+[2023.03.20-21.14.26:831][848]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:831][848]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1792.21167
+Health: 100.0
+[2023.03.20-21.14.26:844][849]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:844][849]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1758.95813
+Health: 100.0
+[2023.03.20-21.14.26:859][850]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:859][850]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1721.942383
+Health: 100.0
+[2023.03.20-21.14.26:872][851]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:872][851]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1687.401855
+Health: 100.0
+[2023.03.20-21.14.26:885][852]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:885][852]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1656.661865
+Health: 100.0
+[2023.03.20-21.14.26:898][853]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:899][853]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1622.417847
+Health: 100.0
+[2023.03.20-21.14.26:912][854]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:912][854]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1588.125366
+Health: 100.0
+[2023.03.20-21.14.26:926][855]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:927][855]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1553.150391
+Health: 100.0
+[2023.03.20-21.14.26:940][856]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:940][856]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1519.631348
+Health: 100.0
+[2023.03.20-21.14.26:952][857]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:953][857]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1486.952148
+Health: 100.0
+[2023.03.20-21.14.26:965][858]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:966][858]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1454.507202
+Health: 100.0
+[2023.03.20-21.14.26:979][859]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:979][859]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1421.83374
+Health: 100.0
+[2023.03.20-21.14.26:993][860]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.26:993][860]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1387.089233
+Health: 100.0
+[2023.03.20-21.14.27:006][861]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:006][861]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1353.347778
+Health: 100.0
+[2023.03.20-21.14.27:019][862]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:019][862]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1321.038574
+Health: 100.0
+[2023.03.20-21.14.27:033][863]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:033][863]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1285.714844
+Health: 100.0
+[2023.03.20-21.14.27:047][864]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:047][864]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1251.076782
+Health: 100.0
+[2023.03.20-21.14.27:060][865]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:060][865]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1219.078979
+Health: 100.0
+[2023.03.20-21.14.27:074][866]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:074][866]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1184.505737
+Health: 100.0
+[2023.03.20-21.14.27:087][867]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:087][867]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1152.01123
+Health: 100.0
+[2023.03.20-21.14.27:100][868]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:100][868]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1119.224243
+Health: 100.0
+[2023.03.20-21.14.27:114][869]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:114][869]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1083.789795
+Health: 100.0
+[2023.03.20-21.14.27:127][870]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:127][870]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1050.668335
+Health: 100.0
+[2023.03.20-21.14.27:140][871]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:140][871]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 1018.108093
+Health: 100.0
+[2023.03.20-21.14.27:155][872]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:155][872]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 981.054871
+Health: 100.0
+[2023.03.20-21.14.27:169][873]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:169][873]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 946.624878
+Health: 100.0
+[2023.03.20-21.14.27:181][874]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:181][874]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 915.680847
+Health: 100.0
+[2023.03.20-21.14.27:196][875]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:196][875]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 879.688354
+Health: 100.0
+[2023.03.20-21.14.27:209][876]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:209][876]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 844.807129
+Health: 100.0
+[2023.03.20-21.14.27:221][877]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:222][877]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 814.759399
+Health: 100.0
+[2023.03.20-21.14.27:235][878]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:236][878]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 779.614624
+Health: 100.0
+[2023.03.20-21.14.27:249][879]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:249][879]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 746.555603
+Health: 100.0
+[2023.03.20-21.14.27:262][880]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:262][880]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 714.196106
+Health: 100.0
+[2023.03.20-21.14.27:276][881]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:276][881]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 678.949097
+Health: 100.0
+[2023.03.20-21.14.27:289][882]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:289][882]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 646.480103
+Health: 100.0
+[2023.03.20-21.14.27:302][883]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:302][883]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 614.015625
+Health: 100.0
+[2023.03.20-21.14.27:315][884]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:315][884]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 580.578369
+Health: 100.0
+[2023.03.20-21.14.27:329][885]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:329][885]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 546.417847
+Health: 100.0
+[2023.03.20-21.14.27:342][886]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:343][886]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 512.324585
+Health: 100.0
+[2023.03.20-21.14.27:356][887]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:356][887]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 478.73407
+Health: 100.0
+[2023.03.20-21.14.27:370][888]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:370][888]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 443.545319
+Health: 100.0
+[2023.03.20-21.14.27:384][889]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:384][889]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 409.460815
+Health: 100.0
+[2023.03.20-21.14.27:396][890]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:396][890]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 377.627563
+Health: 100.0
+[2023.03.20-21.14.27:411][891]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:411][891]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 341.776337
+Health: 100.0
+[2023.03.20-21.14.27:424][892]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:424][892]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 309.158569
+Health: 100.0
+[2023.03.20-21.14.27:437][893]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:437][893]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 276.797577
+Health: 100.0
+[2023.03.20-21.14.27:451][894]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:451][894]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 241.54158
+Health: 100.0
+[2023.03.20-21.14.27:464][895]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:464][895]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 209.15683
+Health: 100.0
+[2023.03.20-21.14.27:476][896]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:477][896]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 176.876328
+Health: 100.0
+[2023.03.20-21.14.27:491][897]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:491][897]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 141.678833
+Health: 100.0
+[2023.03.20-21.14.27:504][898]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:504][898]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 108.790581
+Health: 100.0
+[2023.03.20-21.14.27:517][899]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:517][899]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 76.370583
+Health: 100.0
+[2023.03.20-21.14.27:531][900]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:532][900]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 40.475082
+Health: 100.0
+[2023.03.20-21.14.27:544][901]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:544][901]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 7.389587
+Health: 100.0
+[2023.03.20-21.14.27:557][902]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:557][902]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:571][903]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:571][903]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:584][904]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:584][904]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:597][905]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:597][905]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:610][906]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:610][906]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:623][907]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:623][907]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:636][908]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:636][908]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:649][909]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:649][909]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:662][910]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:662][910]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:674][911]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:674][911]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:687][912]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:687][912]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:701][913]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:701][913]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:714][914]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:714][914]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:726][915]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:727][915]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:740][916]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:740][916]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:753][917]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:753][917]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:765][918]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:765][918]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:779][919]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:780][919]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:792][920]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:792][920]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:805][921]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:805][921]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:819][922]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:819][922]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:832][923]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:832][923]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:844][924]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:844][924]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:858][925]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:858][925]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:871][926]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:871][926]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:883][927]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:883][927]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:896][928]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:896][928]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:909][929]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:910][929]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:922][930]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:922][930]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:935][931]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:935][931]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:949][932]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:949][932]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:961][933]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:961][933]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:974][934]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:974][934]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.27:988][935]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.27:988][935]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:001][936]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:001][936]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:014][937]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:014][937]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:027][938]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:027][938]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:040][939]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:040][939]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:053][940]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:053][940]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:066][941]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:067][941]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:081][942]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:081][942]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:093][943]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:093][943]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:106][944]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:106][944]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:120][945]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:120][945]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:132][946]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:132][946]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:145][947]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:145][947]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:158][948]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:158][948]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:171][949]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:171][949]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:184][950]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:184][950]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:198][951]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:198][951]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:211][952]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:211][952]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:223][953]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:223][953]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:237][954]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:237][954]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:250][955]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:250][955]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:263][956]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:263][956]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:277][957]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:277][957]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:290][958]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:290][958]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:303][959]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:303][959]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:316][960]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:316][960]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:329][961]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:329][961]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:342][962]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:342][962]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:355][963]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:355][963]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:368][964]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:369][964]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:382][965]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:382][965]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:394][966]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:394][966]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:409][967]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:409][967]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:422][968]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:422][968]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:434][969]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:434][969]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:449][970]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:449][970]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:461][971]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:461][971]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:474][972]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:474][972]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:488][973]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:488][973]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:502][974]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:502][974]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:514][975]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:514][975]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:529][976]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:529][976]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:541][977]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:542][977]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:555][978]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:555][978]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:569][979]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:569][979]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:582][980]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:582][980]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:596][981]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:596][981]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:611][982]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:611][982]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:625][983]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:625][983]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:639][984]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:639][984]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:654][985]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:654][985]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:668][986]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:668][986]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:682][987]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:682][987]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:697][988]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:697][988]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:712][989]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:712][989]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:725][990]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:725][990]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:740][991]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:741][991]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:754][992]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:754][992]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:767][993]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:767][993]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:782][994]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:782][994]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:796][995]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:796][995]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:810][996]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:810][996]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:825][997]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:825][997]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:839][998]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:839][998]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:852][999]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:852][999]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:866][  0]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:866][  0]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:881][  1]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:881][  1]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:894][  2]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:894][  2]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:909][  3]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:909][  3]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:922][  4]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:922][  4]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:936][  5]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:936][  5]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:951][  6]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:951][  6]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:964][  7]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:965][  7]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:978][  8]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:978][  8]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.28:992][  9]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.28:993][  9]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:006][ 10]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:006][ 10]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:020][ 11]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:020][ 11]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:035][ 12]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:035][ 12]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:049][ 13]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:049][ 13]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:063][ 14]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:063][ 14]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:078][ 15]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:078][ 15]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:092][ 16]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:092][ 16]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:106][ 17]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:106][ 17]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:121][ 18]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:121][ 18]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:135][ 19]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:135][ 19]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:150][ 20]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:150][ 20]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:164][ 21]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:164][ 21]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:177][ 22]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:177][ 22]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:193][ 23]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:193][ 23]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:207][ 24]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:207][ 24]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:221][ 25]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:221][ 25]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:236][ 26]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:236][ 26]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:250][ 27]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:250][ 27]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:263][ 28]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:263][ 28]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:279][ 29]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:279][ 29]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:293][ 30]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:293][ 30]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:307][ 31]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:307][ 31]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:321][ 32]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:322][ 32]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:336][ 33]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:336][ 33]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:349][ 34]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:349][ 34]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:364][ 35]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:364][ 35]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:379][ 36]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:379][ 36]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:392][ 37]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:392][ 37]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:407][ 38]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:407][ 38]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:422][ 39]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:422][ 39]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:436][ 40]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:436][ 40]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:451][ 41]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:451][ 41]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:466][ 42]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:466][ 42]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:480][ 43]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:480][ 43]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:494][ 44]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:495][ 44]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:510][ 45]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:510][ 45]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:524][ 46]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:524][ 46]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:538][ 47]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:538][ 47]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:552][ 48]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:552][ 48]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:567][ 49]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:567][ 49]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:581][ 50]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:581][ 50]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:595][ 51]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:595][ 51]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:610][ 52]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:610][ 52]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:625][ 53]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:625][ 53]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:638][ 54]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:638][ 54]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:653][ 55]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:653][ 55]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:667][ 56]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:667][ 56]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:680][ 57]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:681][ 57]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:695][ 58]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:695][ 58]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:709][ 59]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:709][ 59]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:723][ 60]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:723][ 60]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:738][ 61]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:738][ 61]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:752][ 62]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:752][ 62]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:766][ 63]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:766][ 63]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:780][ 64]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:780][ 64]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:794][ 65]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:794][ 65]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:808][ 66]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:808][ 66]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:823][ 67]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:824][ 67]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:838][ 68]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:838][ 68]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:852][ 69]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:852][ 69]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:866][ 70]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:867][ 70]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:881][ 71]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:881][ 71]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:896][ 72]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:896][ 72]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:910][ 73]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:910][ 73]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:924][ 74]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:924][ 74]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:938][ 75]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:938][ 75]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:953][ 76]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:953][ 76]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:967][ 77]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:967][ 77]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:982][ 78]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:982][ 78]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.29:996][ 79]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.29:996][ 79]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:011][ 80]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:011][ 80]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:025][ 81]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:025][ 81]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:039][ 82]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:039][ 82]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:053][ 83]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:053][ 83]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:067][ 84]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:068][ 84]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:082][ 85]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:083][ 85]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:097][ 86]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:097][ 86]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:111][ 87]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:111][ 87]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:125][ 88]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:125][ 88]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:138][ 89]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:138][ 89]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:153][ 90]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:153][ 90]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:168][ 91]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:168][ 91]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:179][ 92]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:179][ 92]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:193][ 93]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:194][ 93]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:206][ 94]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:207][ 94]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:220][ 95]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:220][ 95]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:234][ 96]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:234][ 96]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:247][ 97]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:247][ 97]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:260][ 98]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:261][ 98]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:274][ 99]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:274][ 99]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:288][100]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:288][100]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:301][101]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:301][101]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:315][102]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:315][102]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:328][103]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:328][103]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:342][104]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:342][104]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:355][105]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:355][105]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:369][106]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:369][106]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:382][107]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:382][107]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:395][108]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:396][108]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:410][109]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:410][109]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:423][110]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:423][110]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:436][111]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:436][111]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:450][112]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:450][112]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:463][113]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:463][113]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:477][114]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:477][114]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:491][115]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:491][115]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:504][116]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:504][116]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:517][117]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:517][117]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:530][118]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:531][118]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:544][119]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:544][119]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:557][120]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:557][120]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:571][121]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:571][121]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:584][122]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:584][122]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:598][123]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:598][123]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:611][124]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:611][124]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:624][125]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:624][125]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:637][126]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:637][126]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:651][127]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:651][127]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:664][128]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:664][128]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:677][129]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:677][129]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:690][130]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:690][130]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:704][131]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:704][131]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:717][132]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:717][132]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:730][133]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:730][133]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:744][134]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:744][134]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:757][135]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:758][135]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:771][136]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:771][136]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:786][137]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:786][137]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:799][138]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:799][138]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:812][139]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:812][139]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:828][140]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:828][140]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:841][141]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:841][141]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:854][142]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:854][142]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:869][143]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:869][143]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:882][144]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:883][144]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:896][145]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:896][145]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:911][146]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:911][146]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:924][147]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:924][147]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:937][148]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:937][148]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:951][149]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:952][149]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:965][150]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:965][150]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:979][151]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:979][151]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.30:992][152]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.30:993][152]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:005][153]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:005][153]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:019][154]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:019][154]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:033][155]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:034][155]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:046][156]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:046][156]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:059][157]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:060][157]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:073][158]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:073][158]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:086][159]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:086][159]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:099][160]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:099][160]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:113][161]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:113][161]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:125][162]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:125][162]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:138][163]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:138][163]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:151][164]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:151][164]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:164][165]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:164][165]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:176][166]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:176][166]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:189][167]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:189][167]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:203][168]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:203][168]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:215][169]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:215][169]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:227][170]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:228][170]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:241][171]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:241][171]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:253][172]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:253][172]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:266][173]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:266][173]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:280][174]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:280][174]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:293][175]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:293][175]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:306][176]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:306][176]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:320][177]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:320][177]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:332][178]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:332][178]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:344][179]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:345][179]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:358][180]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:358][180]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:371][181]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:371][181]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:384][182]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:384][182]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:396][183]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:396][183]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:409][184]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:410][184]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:422][185]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:422][185]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:434][186]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:434][186]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:448][187]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:448][187]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:460][188]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:461][188]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:473][189]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:473][189]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:486][190]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:486][190]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:499][191]LogBlueprintUserMessages: [GM_DroneSwarm_C_0] Game state: In game
+Score: 0
+[2023.03.20-21.14.31:499][191]LogBlueprintUserMessages: [BP_PlayerDrone_C_UAID_D45D64B3E00E497101_1599722370] Velocity: 0.0
+Health: 100.0
+[2023.03.20-21.14.31:536][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-21.14.31:536][191]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.03.20-21.14.31:537][191]LogSlate: Window 'Project_Drones Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.20-21.14.31:561][191]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-21.14.31:563][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-21.14.31:574][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-21.14.31:578][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-21.14.31:605][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.20-21.14.31:606][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.03.20-21.14.31:608][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.03.20-21.14.31:621][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.03.20-21.14.31:659][192]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.03.20-21.14.57:112][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.03.20-21.14.57:117][341]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Testing/8/8G/U5OZUOD1W9S76F0M2PPJDN_Auto2
+[2023.03.20-21.14.57:118][341]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/U5OZUOD1W9S76F0M2PPJDN_Auto2B7C0FB294E495CCDB62A62BC46588284.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/Autosaves/Game/__ExternalActors__/Levels/Testing/8/8G/U5OZUOD1W9S76F0M2PPJDN_Auto2.uasset'
+[2023.03.20-21.14.57:119][341]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Testing/9/UH/B7S0SN681KUQC33FSO8KTZ_Auto2
+[2023.03.20-21.14.57:120][341]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/B7S0SN681KUQC33FSO8KTZ_Auto25A23E0664EAC6DF4F09E98A16B146596.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/Autosaves/Game/__ExternalActors__/Levels/Testing/9/UH/B7S0SN681KUQC33FSO8KTZ_Auto2.uasset'
+[2023.03.20-21.14.57:123][341]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Testing/E/RW/MFZRQFLW52FX8YLUA0IL7P_Auto2
+[2023.03.20-21.14.57:123][341]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/MFZRQFLW52FX8YLUA0IL7P_Auto24FCA5F1D4750CFCD7CBB0789330FAE12.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/Autosaves/Game/__ExternalActors__/Levels/Testing/E/RW/MFZRQFLW52FX8YLUA0IL7P_Auto2.uasset'
+[2023.03.20-21.14.57:123][341]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Testing' took 0.037
+[2023.03.20-21.14.57:123][341]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.03.20-21.14.57:124][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/Drones/Enemies/BP_EnemyBase] ([2] browsable assets)...
+[2023.03.20-21.14.57:124][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Drones/Enemies/BP_EnemyBase]
+[2023.03.20-21.14.57:130][341]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Drones/Enemies/BP_EnemyBase_Auto2
+[2023.03.20-21.14.57:130][341]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_EnemyBase_Auto2C79381CF4945F0A86F1A189124ECDB33.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/Autosaves/Game/Blueprints/Actors/Drones/Enemies/BP_EnemyBase_Auto2.uasset'
+[2023.03.20-21.14.57:131][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/Drones/BP_Drone_Base] ([2] browsable assets)...
+[2023.03.20-21.14.57:131][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Drones/BP_Drone_Base]
+[2023.03.20-21.14.57:146][341]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Drones/BP_Drone_Base_Auto2
+[2023.03.20-21.14.57:146][341]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_Drone_Base_Auto2F2533A2446F95F95F5915C981A825A4A.tmp' to '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/Autosaves/Game/Blueprints/Actors/Drones/BP_Drone_Base_Auto2.uasset'
+[2023.03.20-21.14.57:147][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/Drones/BP_PlayerDrone] ([2] browsable assets)...
+[2023.03.20-21.14.57:147][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Drones/BP_PlayerDrone]
+[2023.03.20-21.14.57:165][341]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Drones/BP_PlayerDrone_Auto2
+[2023.03.20-21.14.57:165][341]LogSavePackage: Moving '../../../../../GitHub Repos/Project_Drones/Project_Drones/Saved/BP_PlayerDrone_Auto253565AFE461D24FCEBE8F58B3587B636.tmp' to '../../../../
