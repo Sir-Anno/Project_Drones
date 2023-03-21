@@ -68,6 +68,7 @@ Project_Drones/Saved/*
 
 # Compiled source files for the engine to use
 Project_Drones/Intermediate/*
+Project_Drones/DerivedDataCache/
 Project_Drones/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
